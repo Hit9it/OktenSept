@@ -1,0 +1,20 @@
+h1{
+    background: yellow;
+    width: 200px;
+}
+h2{
+    width: 200px;
+    background: yellow;
+}
+p{
+    width: 400px;
+    background: orange;
+}
+ul{
+    width: 200px;
+    background: plum;
+}
+li{
+    width: 200px;
+    background: #be00ff;
+}
