@@ -1,20 +1,25 @@
 h1{
-    background: yellow;
     width: 200px;
+    background: yellow;
+    color: black;
 }
 h2{
     width: 200px;
+    color: black;
     background: yellow;
 }
 p{
     width: 400px;
+    color: black;
     background: orange;
 }
 ul{
     width: 200px;
+    color: black;
     background: plum;
 }
 li{
     width: 200px;
+    color: black;
     background: #be00ff;
 }
